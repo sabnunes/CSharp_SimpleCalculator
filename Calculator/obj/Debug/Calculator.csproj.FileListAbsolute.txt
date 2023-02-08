@@ -1,0 +1,8 @@
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\Calculator\Calculator\obj\Debug\Calculator.exe
+G:\My Drive\Learn\2023-02 C Sharp Basic Applications\Calculator\Calculator\obj\Debug\Calculator.pdb

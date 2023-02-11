@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tp4ttn0E6TnA5F1O3HNuG5eP98/jUh4buDsg+6cvLpkmt8qYLj0R1FrrNSkKzeeGuckB1OcpG4naxFr9qCudfg==",
+  "dgSpecHash": "OgOWNu3SzzxzIXtBo0oZtXxBOSetpbyRGsDn71q+L0UWnBdXyIXw8qOX3gaGGASL8mwJydVOxw+eyizag0g0YQ==",
   "success": true,
-  "projectFilePath": "G:\\My Drive\\Learn\\2023-02 C Sharp Basic Applications\\Calculator\\CSharp_SimpleCalculator\\SimpleCalculator.Test.Unit\\SimpleCalculator.Test.Unit.csproj",
+  "projectFilePath": "G:\\My Drive\\Learn\\2023-02 C Sharp Basic Applications\\SudokuSolver\\SimpleCalculator\\SimpleCalculator.Test.Unit\\SimpleCalculator.Test.Unit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sabrina Nunes\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Sabrina Nunes\\.nuget\\packages\\microsoft.codecoverage\\17.4.1\\microsoft.codecoverage.17.4.1.nupkg.sha512",

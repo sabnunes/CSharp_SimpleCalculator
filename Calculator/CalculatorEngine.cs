@@ -1,9 +1,4 @@
 ﻿using System;
-using System.CodeDom;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SimpleCalculator
 {
@@ -12,7 +7,7 @@ namespace SimpleCalculator
         public double Calculate(string argOperation, double argFirstNum, double argSecondNum)
         {
             double result;
-            switch(argOperation.ToLower())
+            switch (argOperation.ToLower())
             {
                 case "sum":
                 case "add":
@@ -36,6 +31,7 @@ namespace SimpleCalculator
                 default:
                     throw new InvalidOperationException("Operation is not recognized.");
             }
+
             return result;
         }
     }
